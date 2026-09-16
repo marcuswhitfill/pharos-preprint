@@ -1,0 +1,21 @@
+{
+  "generated_at": "2026-09-16T17:00:40-06:00",
+  "lake": {
+    "done": 11424,
+    "inbox": 3384,
+    "fail": 1157,
+    "gpu_fix": 640,
+    "prefill_checksums": 10743
+  },
+  "anchors": {
+    "sedgewick_pages_per_sec_per_worker": 3.640873015873016,
+    "kickoff_pdf_pages": 3360474,
+    "kickoff_dirty_pages": 393232,
+    "session_done_baseline": 4745
+  },
+  "restore_6w": {
+    "ok": 148,
+    "adaptive_events": 6,
+    "oom_lines": 9
+  }
+}
